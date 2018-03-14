@@ -1,5 +1,6 @@
 # Phantom-Omni-Project
 Haptic / Force-Feedback Interface with OMNI Phantom for Robot Guidance
+
 Authors: Myron Smith, Philip Mullins, Ali Elsaadi, Quoc Nguyen
 
 Introduction
