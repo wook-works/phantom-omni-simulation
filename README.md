@@ -40,24 +40,41 @@ feedback.
 The following plug-in and scripts include:
 
 A SimpleHapticPlugin.dll
+
 -Developed at the School of Simulation and Visualization,
 Glasgow School of Art, a library built in C++ providing limited
 implementation of the OpenHaptics toolkit HDAPI (low level
 haptic device access) and HLAPI (high level haptic rendering)
 functions allowing haptic interaction in Unity 5.x Game Engine
 simulations through Unity3D's C# front-end scripting language.
+
+
 HapticProperties.cs
+
 -Stores the haptic environment properties
+
+
 GenericFunctionsClass.cs
+
 -provides set/get methods to HapticProperties and
 HapticClassScript variables/methods
+
+
 PluginImport.cs
+
 -file imports methods from the ASimpleHapticPlugin.dll,
 making them available for use in Unity scripts
+
+
 HapticClassScript.cs
+
 -file provides Unity Objects to GenericFunctionClass
+
+
 SimpleShapeManipulation.cs
+
 -file provide defines haptic behavior experienced in Unity scene
+
 
 Results
 
