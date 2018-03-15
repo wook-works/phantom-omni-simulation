@@ -1,7 +1,7 @@
 ## Phantom-Omni-Project
 Haptic / Force-Feedback Interface with OMNI Phantom for Robot Guidance
 
-#Introduction
+Introduction
 
 This project presents a software application for medical intention. It consists
 of a three dimensional virtual environment created in Unity, which are
@@ -12,7 +12,7 @@ device with peripheral input and output that allow user to interact with our
 virtual environment, to simulate the sensation corresponding to the touch for
 which forces return.
 
-#Methodology
+Methodology
 
 Equipment and software necessary: Phantom Omni Haptic Device, Unity,
 C#, OpenGL
@@ -95,7 +95,7 @@ it’s traversal path.
 Sample image of contact with boundaries producing force
 feedback.
 
-#Limitation
+Limitation
 
 The plugin did not allow access to raw data from the haptic device.
 The data provided limited the ability to integrate the separate
@@ -103,7 +103,7 @@ workspaces of the haptic and Unity dynamically.
 
 YouTube link to demo: https://youtu.be/DoSwg3S898E
 
-#Conclusion
+Conclusion
 
 In this project, the Phantom Omni haptic device demonstrated force
 feedback by interfacing along a Unity Scenario with descriptive components
