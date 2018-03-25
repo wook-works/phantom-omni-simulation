@@ -40,7 +40,8 @@ The proposed method was tested for haptic feedback when the pill comes in
 contact with the outer walls of the artery.
 -Complete workspace of artery
 
-![Artery](http://ibb.co/hupQvH)
+
+![screenshot1](https://user-images.githubusercontent.com/8764125/37870340-4a802774-2f99-11e8-9648-ea8909ea8339.JPG)
 
 When starting the executable file, the expected result includes controlling
 the pill in the free space with the haptic device.
