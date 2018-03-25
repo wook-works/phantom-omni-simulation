@@ -38,22 +38,30 @@ feedback.
 
 The proposed method was tested for haptic feedback when the pill comes in
 contact with the outer walls of the artery.
--Complete workspace of artery
-
+-Complete workspace of artery:
 
 ![screenshot1](https://user-images.githubusercontent.com/8764125/37870340-4a802774-2f99-11e8-9648-ea8909ea8339.JPG)
 
 When starting the executable file, the expected result includes controlling
 the pill in the free space with the haptic device.
 Sample image of the pill moving in free space until it enters the
-bounded tube.
+bounded tube:
+
+![screenshot2](https://user-images.githubusercontent.com/8764125/37870358-c8ca8ac0-2f99-11e8-8a22-7e372b017e34.JPG)
+
 Once inside the tube, the pill is enabled to traverse through it while being
 restricted within the bounds providing haptic feedback to the Omni.
+
+
+![screenshot3](https://user-images.githubusercontent.com/8764125/37870360-d1e30b64-2f99-11e8-9fa0-d900d953d680.JPG)
 
 Sample image of the pill traversing through the tube
 If there is visual contact between the pill and the artery boundaries, the
 haptic device will provide force feedback in order to guide the pill back onto
 it’s traversal path.
+
+
+![screenshot4](https://user-images.githubusercontent.com/8764125/37870362-d49dd47e-2f99-11e8-98db-37a5b5275378.JPG)
 
 Sample image of contact with boundaries producing force
 feedback.
